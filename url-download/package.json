@@ -1,6 +1,6 @@
 {
-  "name": "@hty/url-download",
-  "version": "1.0.0",
+  "name": "@tianyu.han/url-get-file",
+  "version": "1.0.1",
   "description": "在浏览器上通过url下载文件到本地",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,6 @@
     "download"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/outofhadoop/npm-package#readme"
 }

@@ -1,6 +1,11 @@
 'use strict';
 
-module.export = function downloadFile({
+module.exports = {
+  downloadFile
+}
+
+
+function downloadFile({
   url,
   fileName,
 }) {
