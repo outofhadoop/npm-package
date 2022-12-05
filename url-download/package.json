@@ -1,0 +1,14 @@
+{
+  "name": "@hty/url-download",
+  "version": "1.0.0",
+  "description": "在浏览器上通过url下载文件到本地",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "download"
+  ],
+  "author": "",
+  "license": "ISC"
+}
